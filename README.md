@@ -3,6 +3,6 @@
 
 
 ### Network Framework
-![Book logo](/biodiversity-action-network/docs/assets/images/framework.png)
+![Network_framework](/biodiversity-action-network/docs/assets/images/framework.png)
 
 ### Nodes and Phases
