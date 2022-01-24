@@ -6,3 +6,4 @@
 ![Network_framework](/biodiversity-action-network/docs/assets/images/framework.png)
 
 ### Nodes and Phases
+![Nodes_Working_groups_Phases](/biodiversity-action-network/docs/assets/images/nodes_groups_phases.png)
