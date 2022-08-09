@@ -1,6 +1,8 @@
 # Northeast Pacific Biodiversity Action Network
 ## A Marine Life 2030 Project for the UN Decade of Ocean Science for Sustainable Development
 
+### Read the proposal
+[link](/biodiversity-action-network/docs/assets/pdfs/Project_Application_Biodiversity_Action_Network_FINAL.pdf)
 
 ### Proposed Network Framework
 ![Network_framework](/biodiversity-action-network/docs/assets/images/framework.png)
